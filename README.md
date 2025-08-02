@@ -23,6 +23,8 @@ This repository contains automated tests for Happy Folder application, organized
 Application properties can be found in each module under  
 `src/main/resources/application.properties`.
 
+NOTE: Set the actual api.adminJs property in the API module.
+
 ## How to Build
 
 ```bash
